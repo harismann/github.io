@@ -2,7 +2,7 @@
 
 #### About This Site
 
-> Website Aplikasi yang memilki fungsi untuk memvoting berbagai hal sesuai keinginan si pembuat website. di website ini si pembuat website bisa membuat hal apa saja yang akan di voting dan orang lain pun bisa voting berdasarkan apa yang diinginkannya.
+> Website Aplikasi yang memilki fungsi untuk memvoting berbagai hal sesuai keinginan si pembuat website. di website ini si pembuat website bisa membuat hal apa saja yang akan di voting dan orang lain pun bisa voting berdasarkan apa yang diinginkannya. web ini kedepannya akan bisa memvoting banyak pilihan, dan akan menggunakan javascript dan lainnya
 
 ####Used Tags & Syntaxes
 
